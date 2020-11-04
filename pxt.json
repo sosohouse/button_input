@@ -1,5 +1,5 @@
 {
-    "name": "test",
+    "name": "button_input",
     "description": "",
     "dependencies": {
         "core": "*",
